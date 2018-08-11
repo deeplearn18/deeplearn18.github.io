@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>iDeepLearn——Simple, Utility, Flexibility</title>
+  <title>iDeepLearn</title>
   
-  
+  <subtitle>Simple, Utility, Flexibility.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ideeplearn.com/"/>
-  <updated>2018-08-10T01:27:10.592Z</updated>
+  <updated>2018-08-11T04:32:20.028Z</updated>
   <id>http://ideeplearn.com/</id>
   
   <author>
@@ -15,6 +15,151 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cognition, Communication, Cooperation</title>
+    <link href="http://ideeplearn.com/Profession/3C.html"/>
+    <id>http://ideeplearn.com/Profession/3C.html</id>
+    <published>2018-08-11T04:29:08.000Z</published>
+    <updated>2018-08-11T04:32:20.028Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Cognition+Equals.jpg?imageMogr2/thumbnail/!75p" alt="Cognition+Equals.jpg"></p><blockquote><p>Cognition, Communication, Cooperation</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Cognition+Equals.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;Cognition+Equals.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cognition, Communication, Cooperation&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Cognition" scheme="http://ideeplearn.com/tags/Cognition/"/>
+    
+      <category term="Communication" scheme="http://ideeplearn.com/tags/Communication/"/>
+    
+      <category term="Cooperation" scheme="http://ideeplearn.com/tags/Cooperation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Andy, Amy, Alisa</title>
+    <link href="http://ideeplearn.com/Profession/3A.html"/>
+    <id>http://ideeplearn.com/Profession/3A.html</id>
+    <published>2018-08-11T04:28:08.000Z</published>
+    <updated>2018-08-11T04:34:50.941Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p53s4d2qk.bkt.clouddn.com/Image_20180406175035.jpg?imageMogr2/thumbnail/!75p" alt="Image_20180406175035.jpg"></p><blockquote><p>Andy, Amy, Alisa</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p53s4d2qk.bkt.clouddn.com/Image_20180406175035.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;Image_20180406175035.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Andy, Amy, Alisa&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Andy" scheme="http://ideeplearn.com/tags/Andy/"/>
+    
+      <category term="Amy" scheme="http://ideeplearn.com/tags/Amy/"/>
+    
+      <category term="Alisa" scheme="http://ideeplearn.com/tags/Alisa/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Miniamal Actionable Knowledge and Experience</title>
+    <link href="http://ideeplearn.com/Wisdom/MAKE.html"/>
+    <id>http://ideeplearn.com/Wisdom/MAKE.html</id>
+    <published>2018-08-11T04:24:08.000Z</published>
+    <updated>2018-08-11T04:27:49.778Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/donotquit20180811.jfif?imageMogr2/thumbnail/!75p" alt="donotquit20180811.jfif"></p><blockquote><p>Miniamal Actionable Knowledge and Experience.</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/donotquit20180811.jfif?imageMogr2/thumbnail/!75p&quot; alt=&quot;donotquit20180811.jfif&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Miniamal Actionable Knowledge and Experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Knowledge" scheme="http://ideeplearn.com/tags/Knowledge/"/>
+    
+      <category term="Miniamal" scheme="http://ideeplearn.com/tags/Miniamal/"/>
+    
+      <category term="Actionable" scheme="http://ideeplearn.com/tags/Actionable/"/>
+    
+      <category term="Experience" scheme="http://ideeplearn.com/tags/Experience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mutually Exclusive Collectively Exhaustive</title>
+    <link href="http://ideeplearn.com/Wisdom/MECE.html"/>
+    <id>http://ideeplearn.com/Wisdom/MECE.html</id>
+    <published>2018-08-11T04:20:08.000Z</published>
+    <updated>2018-08-11T04:24:36.312Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/mece20180811.png?imageMogr2/thumbnail/!75p" alt="mece20180811.png"></p><blockquote><p>Mutually Exclusive Collectively Exhaustive</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/mece20180811.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;mece20180811.png&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mutually Exclusive Collectively Exhaustive&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Exclusive" scheme="http://ideeplearn.com/tags/Exclusive/"/>
+    
+      <category term="Exhaustive" scheme="http://ideeplearn.com/tags/Exhaustive/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Minimum Viable Product</title>
+    <link href="http://ideeplearn.com/Wisdom/MVP.html"/>
+    <id>http://ideeplearn.com/Wisdom/MVP.html</id>
+    <published>2018-08-11T04:15:08.000Z</published>
+    <updated>2018-08-11T04:20:37.086Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/skateboard-mvp.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Minimum Viable Product.</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/skateboard-mvp.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Minimum Viable Product.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Minimum" scheme="http://ideeplearn.com/tags/Minimum/"/>
+    
+      <category term="Viable" scheme="http://ideeplearn.com/tags/Viable/"/>
+    
+      <category term="Product" scheme="http://ideeplearn.com/tags/Product/"/>
+    
+  </entry>
   
   <entry>
     <title>Meaning of Life</title>
