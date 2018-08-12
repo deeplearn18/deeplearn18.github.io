@@ -249,32 +249,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
-    <lastmod>2018-08-12T02:34:51.023Z</lastmod>
-    <data>
-        <display>
-        <title>HWPM</title>
-        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
-        
-        <tag>Health</tag>
-         
-        <tag>Meaning</tag>
-         
-        <tag>Profession</tag>
-         
-        <tag>Wisdom</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
     <lastmod>2018-08-12T02:34:51.023Z</lastmod>
     <data>
@@ -289,6 +263,32 @@
         <tag>Aphorism</tag>
          
         <tag>Maxim</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
+    <lastmod>2018-08-12T02:34:51.023Z</lastmod>
+    <data>
+        <display>
+        <title>HWPM</title>
+        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
+        
+        <tag>Meaning</tag>
+         
+        <tag>Health</tag>
+         
+        <tag>Profession</tag>
+         
+        <tag>Wisdom</tag>
          
          
            
@@ -345,6 +345,26 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Profession/Career.html</loc>
+    <lastmod>2018-08-12T02:34:51.020Z</lastmod>
+    <data>
+        <display>
+        <title>Career</title>
+        <pubTime>2018-08-11T06:25:08.000Z</pubTime>
+        
+        <tag>Career</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/iDeepLearn.html</loc>
     <lastmod>2018-08-12T02:34:51.020Z</lastmod>
     <data>
@@ -366,26 +386,6 @@
            
              
               <breadCrumb title="Meaning" url="http://ideeplearn.com/categories/Meaning/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Career.html</loc>
-    <lastmod>2018-08-12T02:34:51.020Z</lastmod>
-    <data>
-        <display>
-        <title>Career</title>
-        <pubTime>2018-08-11T06:25:08.000Z</pubTime>
-        
-        <tag>Career</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
