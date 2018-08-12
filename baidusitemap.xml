@@ -282,9 +282,9 @@
         <title>HWPM</title>
         <pubTime>2018-08-11T08:49:08.000Z</pubTime>
         
-        <tag>Meaning</tag>
-         
         <tag>Health</tag>
+         
+        <tag>Meaning</tag>
          
         <tag>Profession</tag>
          
@@ -325,14 +325,14 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/Habit.html</loc>
+    <loc>http://ideeplearn.com/Profession/Career.html</loc>
     <lastmod>2018-08-12T02:34:51.020Z</lastmod>
     <data>
         <display>
-        <title>Habit</title>
-        <pubTime>2018-08-11T06:22:08.000Z</pubTime>
+        <title>Career</title>
+        <pubTime>2018-08-11T06:25:08.000Z</pubTime>
         
-        <tag>Habit</tag>
+        <tag>Career</tag>
          
          
            
@@ -345,14 +345,14 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/Career.html</loc>
+    <loc>http://ideeplearn.com/Profession/Habit.html</loc>
     <lastmod>2018-08-12T02:34:51.020Z</lastmod>
     <data>
         <display>
-        <title>Career</title>
-        <pubTime>2018-08-11T06:25:08.000Z</pubTime>
+        <title>Habit</title>
+        <pubTime>2018-08-11T06:22:08.000Z</pubTime>
         
-        <tag>Career</tag>
+        <tag>Habit</tag>
          
          
            
