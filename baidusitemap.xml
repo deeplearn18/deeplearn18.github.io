@@ -4,6 +4,130 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Health/Health.html</loc>
+    <lastmod>2018-08-12T14:25:27.917Z</lastmod>
+    <data>
+        <display>
+        <title>Principle of Health</title>
+        <pubTime>2018-08-09T03:30:08.000Z</pubTime>
+        
+        <tag>Health</tag>
+         
+        <tag>Eat</tag>
+         
+        <tag>Food</tag>
+         
+        <tag>Sleep</tag>
+         
+        <tag>Walk</tag>
+         
+        <tag>Exercise</tag>
+         
+        <tag>Sports</tag>
+         
+        <tag>Mind</tag>
+         
+        <tag>Principle</tag>
+         
+         
+           
+             
+              <breadCrumb title="Health" url="http://ideeplearn.com/categories/Health/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Health/Brain.html</loc>
+    <lastmod>2018-08-12T14:21:34.193Z</lastmod>
+    <data>
+        <display>
+        <title>Brain</title>
+        <pubTime>2018-08-12T10:28:08.000Z</pubTime>
+        
+        <tag>Brain</tag>
+         
+        <tag>Neuron</tag>
+         
+        <tag>Connection</tag>
+         
+         
+           
+             
+              <breadCrumb title="Health" url="http://ideeplearn.com/categories/Health/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Google.html</loc>
+    <lastmod>2018-08-12T14:20:01.430Z</lastmod>
+    <data>
+        <display>
+        <title>Google</title>
+        <pubTime>2018-08-12T14:12:08.000Z</pubTime>
+        
+        <tag>Google</tag>
+         
+        <tag>Search</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Probability.html</loc>
+    <lastmod>2018-08-12T14:14:10.620Z</lastmod>
+    <data>
+        <display>
+        <title>Probability</title>
+        <pubTime>2018-08-12T14:07:08.000Z</pubTime>
+        
+        <tag>Probability</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Logic.html</loc>
+    <lastmod>2018-08-12T14:09:58.131Z</lastmod>
+    <data>
+        <display>
+        <title>Logic</title>
+        <pubTime>2018-08-12T13:58:08.000Z</pubTime>
+        
+        <tag>Logic</tag>
+         
+        <tag>Inference</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Profession/Failure.html</loc>
     <lastmod>2018-08-12T11:20:30.239Z</lastmod>
     <data>
@@ -172,30 +296,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Health/Brain.html</loc>
-    <lastmod>2018-08-12T10:31:40.177Z</lastmod>
-    <data>
-        <display>
-        <title>Brain</title>
-        <pubTime>2018-08-12T10:28:08.000Z</pubTime>
-        
-        <tag>Brain</tag>
-         
-        <tag>Neuron</tag>
-         
-        <tag>Connection</tag>
-         
-         
-           
-             
-              <breadCrumb title="Meaning" url="http://ideeplearn.com/categories/Meaning/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Velocity.html</loc>
     <lastmod>2018-08-12T10:27:01.646Z</lastmod>
     <data>
@@ -327,42 +427,6 @@
     
     
   <url>
-    <loc>http://ideeplearn.com/Health/Health.html</loc>
-    <lastmod>2018-08-12T02:38:50.005Z</lastmod>
-    <data>
-        <display>
-        <title>Principle of Health</title>
-        <pubTime>2018-08-09T03:30:08.000Z</pubTime>
-        
-        <tag>Health</tag>
-         
-        <tag>Eat</tag>
-         
-        <tag>Food</tag>
-         
-        <tag>Sleep</tag>
-         
-        <tag>Walk</tag>
-         
-        <tag>Exercise</tag>
-         
-        <tag>Sports</tag>
-         
-        <tag>Mind</tag>
-         
-        <tag>Principle</tag>
-         
-         
-           
-             
-              <breadCrumb title="Health" url="http://ideeplearn.com/categories/Health/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Profession/Profession.html</loc>
     <lastmod>2018-08-12T02:36:06.905Z</lastmod>
     <data>
@@ -370,11 +434,11 @@
         <title>Profession of Career</title>
         <pubTime>2018-08-09T06:06:08.000Z</pubTime>
         
-        <tag>Career</tag>
-         
         <tag>Profession</tag>
          
         <tag>Knowledge</tag>
+         
+        <tag>Career</tag>
          
         <tag>Skill</tag>
          
@@ -523,6 +587,32 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
+    <lastmod>2018-08-12T02:34:51.023Z</lastmod>
+    <data>
+        <display>
+        <title>HWPM</title>
+        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
+        
+        <tag>Health</tag>
+         
+        <tag>Meaning</tag>
+         
+        <tag>Wisdom</tag>
+         
+        <tag>Profession</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
     <lastmod>2018-08-12T02:34:51.023Z</lastmod>
     <data>
@@ -537,32 +627,6 @@
         <tag>Aphorism</tag>
          
         <tag>Maxim</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
-    <lastmod>2018-08-12T02:34:51.023Z</lastmod>
-    <data>
-        <display>
-        <title>HWPM</title>
-        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
-        
-        <tag>Health</tag>
-         
-        <tag>Meaning</tag>
-         
-        <tag>Profession</tag>
-         
-        <tag>Wisdom</tag>
          
          
            
@@ -646,13 +710,13 @@
         <title>MAKE</title>
         <pubTime>2018-08-11T04:24:08.000Z</pubTime>
         
-        <tag>Knowledge</tag>
-         
         <tag>Experience</tag>
          
         <tag>Miniamal</tag>
          
         <tag>Actionable</tag>
+         
+        <tag>Knowledge</tag>
          
          
            
