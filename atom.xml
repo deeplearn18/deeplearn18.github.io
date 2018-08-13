@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ideeplearn.com/"/>
-  <updated>2018-08-13T00:19:35.970Z</updated>
+  <updated>2018-08-13T00:42:07.034Z</updated>
   <id>http://ideeplearn.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://ideeplearn.com/Profession/Science.html"/>
     <id>http://ideeplearn.com/Profession/Science.html</id>
     <published>2018-08-13T00:16:08.000Z</published>
-    <updated>2018-08-13T00:19:35.970Z</updated>
+    <updated>2018-08-13T00:42:07.034Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://zhibimo.com/read/xiaolai/reborn-every-7-years/images/Scientific-methods.jpg" alt=""></p><blockquote><p>   The essence of Science is falsification</p></blockquote><a id="more"></a><p><a href="https://en.wikipedia.org/wiki/Scientific_method" target="_blank" rel="noopener">Scientific method</a> is an empirical method of knowledge acquisition, which has characterized the development of natural science since at least the 17th century, involving careful observation, which includes rigorous skepticism about what is observed, given that cognitive assumptions about how the world works influence how one interprets a percept; formulating hypotheses, via induction, based on such observations; experimental testing and measurement of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are principles of the scientific method, as opposed to a definitive series of steps applicable to all scientific enterprises.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Scientific_law_versus_Scientific_theories.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Scientific theories explain why something happens, whereas Scientific Laws record what happens.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Scientific-methods.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>   The essence of Science is falsification</p></blockquote><a id="more"></a><p><a href="https://en.wikipedia.org/wiki/Scientific_method" target="_blank" rel="noopener">Scientific method</a> is an empirical method of knowledge acquisition, which has characterized the development of natural science since at least the 17th century, involving careful observation, which includes rigorous skepticism about what is observed, given that cognitive assumptions about how the world works influence how one interprets a percept; formulating hypotheses, via induction, based on such observations; experimental testing and measurement of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are principles of the scientific method, as opposed to a definitive series of steps applicable to all scientific enterprises.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Scientific_law_versus_Scientific_theories.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Scientific theories explain why something happens, whereas Scientific Laws record what happens.</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://zhibimo.com/read/xiaolai/reborn-every-7-years/images/Scientific-methods.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Scientific-methods.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;   The essence of Science is falsification&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -355,8 +355,6 @@
       <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
     
     
-      <category term="Experience" scheme="http://ideeplearn.com/tags/Experience/"/>
-    
       <category term="Attention" scheme="http://ideeplearn.com/tags/Attention/"/>
     
       <category term="Yourself" scheme="http://ideeplearn.com/tags/Yourself/"/>
@@ -364,6 +362,8 @@
       <category term="Critical" scheme="http://ideeplearn.com/tags/Critical/"/>
     
       <category term="Deliberate" scheme="http://ideeplearn.com/tags/Deliberate/"/>
+    
+      <category term="Experience" scheme="http://ideeplearn.com/tags/Experience/"/>
     
   </entry>
   
@@ -392,9 +392,9 @@
     
       <category term="Meaning" scheme="http://ideeplearn.com/tags/Meaning/"/>
     
-      <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
-    
       <category term="Profession" scheme="http://ideeplearn.com/tags/Profession/"/>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
     
   </entry>
   

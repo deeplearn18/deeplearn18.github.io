@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
+    <loc>http://ideeplearn.com/Wisdom/MVP.html</loc>
     
-    <lastmod>2018-08-13T00:27:30.371Z</lastmod>
+    <lastmod>2018-08-13T00:49:12.050Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ideeplearn.com/Profession/Science.html</loc>
     
-    <lastmod>2018-08-13T00:19:35.970Z</lastmod>
+    <lastmod>2018-08-13T00:42:07.034Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
+    
+    <lastmod>2018-08-13T00:27:30.371Z</lastmod>
     
   </url>
   
@@ -170,14 +177,14 @@
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
+    <loc>http://ideeplearn.com/Profession/3C.html</loc>
     
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Profession/3C.html</loc>
+    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
     
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     
@@ -191,14 +198,14 @@
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Meaning/Responsibility.html</loc>
+    <loc>http://ideeplearn.com/Meaning/Happiness.html</loc>
     
     <lastmod>2018-08-12T02:34:51.027Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Meaning/Happiness.html</loc>
+    <loc>http://ideeplearn.com/Meaning/Responsibility.html</loc>
     
     <lastmod>2018-08-12T02:34:51.027Z</lastmod>
     
@@ -243,13 +250,6 @@
     <loc>http://ideeplearn.com/Wisdom/MAKE.html</loc>
     
     <lastmod>2018-08-12T02:34:51.014Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ideeplearn.com/Wisdom/MVP.html</loc>
-    
-    <lastmod>2018-08-12T02:34:51.007Z</lastmod>
     
   </url>
   

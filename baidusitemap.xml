@@ -4,6 +4,50 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Wisdom/MVP.html</loc>
+    <lastmod>2018-08-13T00:49:12.050Z</lastmod>
+    <data>
+        <display>
+        <title>MVP</title>
+        <pubTime>2018-08-11T04:15:08.000Z</pubTime>
+        
+        <tag>Minimum</tag>
+         
+        <tag>Viable</tag>
+         
+        <tag>Product</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Science.html</loc>
+    <lastmod>2018-08-13T00:42:07.034Z</lastmod>
+    <data>
+        <display>
+        <title>Science</title>
+        <pubTime>2018-08-13T00:16:08.000Z</pubTime>
+        
+        <tag>Science</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
     <lastmod>2018-08-13T00:27:30.371Z</lastmod>
     <data>
@@ -23,26 +67,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Science.html</loc>
-    <lastmod>2018-08-13T00:19:35.970Z</lastmod>
-    <data>
-        <display>
-        <title>Science</title>
-        <pubTime>2018-08-13T00:16:08.000Z</pubTime>
-        
-        <tag>Science</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -379,8 +403,6 @@
         <title>ABCDE</title>
         <pubTime>2018-08-11T08:55:08.000Z</pubTime>
         
-        <tag>Experience</tag>
-         
         <tag>Attention</tag>
          
         <tag>Yourself</tag>
@@ -388,6 +410,8 @@
         <tag>Critical</tag>
          
         <tag>Deliberate</tag>
+         
+        <tag>Experience</tag>
          
          
            
@@ -522,13 +546,37 @@
         <title>Profession of Career</title>
         <pubTime>2018-08-09T06:06:08.000Z</pubTime>
         
-        <tag>Knowledge</tag>
+        <tag>Career</tag>
          
         <tag>Profession</tag>
          
-        <tag>Career</tag>
+        <tag>Knowledge</tag>
          
         <tag>Skill</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/3C.html</loc>
+    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
+    <data>
+        <display>
+        <title>3C</title>
+        <pubTime>2018-08-11T04:29:08.000Z</pubTime>
+        
+        <tag>Cognition</tag>
+         
+        <tag>Communication</tag>
+         
+        <tag>Cooperation</tag>
          
          
            
@@ -563,30 +611,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/3C.html</loc>
-    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
-    <data>
-        <display>
-        <title>3C</title>
-        <pubTime>2018-08-11T04:29:08.000Z</pubTime>
-        
-        <tag>Cognition</tag>
-         
-        <tag>Communication</tag>
-         
-        <tag>Cooperation</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Meaning/Meaning.html</loc>
     <lastmod>2018-08-12T02:34:51.030Z</lastmod>
     <data>
@@ -611,14 +635,14 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Meaning/Responsibility.html</loc>
+    <loc>http://ideeplearn.com/Meaning/Happiness.html</loc>
     <lastmod>2018-08-12T02:34:51.027Z</lastmod>
     <data>
         <display>
-        <title>Responsibility</title>
-        <pubTime>2018-08-11T05:42:08.000Z</pubTime>
+        <title>Happiness</title>
+        <pubTime>2018-08-11T07:13:08.000Z</pubTime>
         
-        <tag>Responsibility</tag>
+        <tag>Happiness</tag>
          
          
            
@@ -631,14 +655,14 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Meaning/Happiness.html</loc>
+    <loc>http://ideeplearn.com/Meaning/Responsibility.html</loc>
     <lastmod>2018-08-12T02:34:51.027Z</lastmod>
     <data>
         <display>
-        <title>Happiness</title>
-        <pubTime>2018-08-11T07:13:08.000Z</pubTime>
+        <title>Responsibility</title>
+        <pubTime>2018-08-11T05:42:08.000Z</pubTime>
         
-        <tag>Happiness</tag>
+        <tag>Responsibility</tag>
          
          
            
@@ -686,9 +710,9 @@
          
         <tag>Meaning</tag>
          
-        <tag>Wisdom</tag>
-         
         <tag>Profession</tag>
+         
+        <tag>Wisdom</tag>
          
          
            
@@ -772,37 +796,13 @@
         <title>MAKE</title>
         <pubTime>2018-08-11T04:24:08.000Z</pubTime>
         
-        <tag>Miniamal</tag>
-         
-        <tag>Actionable</tag>
-         
         <tag>Knowledge</tag>
          
         <tag>Experience</tag>
          
+        <tag>Miniamal</tag>
          
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Wisdom/MVP.html</loc>
-    <lastmod>2018-08-12T02:34:51.007Z</lastmod>
-    <data>
-        <display>
-        <title>MVP</title>
-        <pubTime>2018-08-11T04:15:08.000Z</pubTime>
-        
-        <tag>Minimum</tag>
-         
-        <tag>Viable</tag>
-         
-        <tag>Product</tag>
+        <tag>Actionable</tag>
          
          
            
