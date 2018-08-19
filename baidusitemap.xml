@@ -4,6 +4,29 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Wisdom/Frog.html</loc>
+    <lastmod>2018-08-18T23:45:46.174Z</lastmod>
+    <data>
+        <display>
+        <title>Frog</title>
+        <pubTime>2018-08-18T23:33:08.000Z</pubTime>
+        
+        <tag>Frog</tag>
+         
+        <tag>Tadpole</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>http://ideeplearn.com/Profession/WWH.html</loc>
     <lastmod>2018-08-18T01:54:54.929Z</lastmod>
     <data>
@@ -26,7 +49,6 @@
     </data>
     </url>
 
-    
     
   <url>
     <loc>http://ideeplearn.com/Profession/Profession.html</loc>
@@ -340,9 +362,29 @@
         <title>Failure</title>
         <pubTime>2018-08-11T07:39:08.000Z</pubTime>
         
+        <tag>Failure</tag>
+         
         <tag>Success</tag>
          
-        <tag>Failure</tag>
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
+    <data>
+        <display>
+        <title>Business</title>
+        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
+        
+        <tag>Business</tag>
          
          
            
@@ -370,26 +412,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
-    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
-    <data>
-        <display>
-        <title>Business</title>
-        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
-        
-        <tag>Business</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -430,11 +452,11 @@
         
         <tag>Health</tag>
          
+        <tag>Meaning</tag>
+         
         <tag>Profession</tag>
          
         <tag>Wisdom</tag>
-         
-        <tag>Meaning</tag>
          
          
            
@@ -474,11 +496,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
-        <tag>Confidence</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Confidence</tag>
          
          
            
@@ -588,9 +610,9 @@
         <title>Wisdom of Life</title>
         <pubTime>2018-08-09T04:30:08.000Z</pubTime>
         
-        <tag>Wisdom</tag>
-         
         <tag>Life</tag>
+         
+        <tag>Wisdom</tag>
          
         <tag>Aphorism</tag>
          
@@ -818,9 +840,9 @@
         <title>Success</title>
         <pubTime>2018-08-11T07:46:08.000Z</pubTime>
         
-        <tag>Success</tag>
-         
         <tag>Failure</tag>
+         
+        <tag>Success</tag>
          
          
            
@@ -910,11 +932,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
+        <tag>Competition</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Competition</tag>
          
          
            
