@@ -4,6 +4,84 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Profession/WOOP.html</loc>
+    <lastmod>2018-08-25T08:19:26.518Z</lastmod>
+    <data>
+        <display>
+        <title>WOOP</title>
+        <pubTime>2018-08-25T08:16:08.000Z</pubTime>
+        
+        <tag>Wish</tag>
+         
+        <tag>Outcome</tag>
+         
+        <tag>Obstacle</tag>
+         
+        <tag>Plan</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Scene-Circuit.html</loc>
+    <lastmod>2018-08-25T08:13:53.033Z</lastmod>
+    <data>
+        <display>
+        <title>Scene Circuit</title>
+        <pubTime>2018-08-18T01:37:08.000Z</pubTime>
+        
+        <tag>Scene</tag>
+         
+        <tag>Circuit</tag>
+         
+        <tag>Loop</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/English.html</loc>
+    <lastmod>2018-08-24T22:43:28.076Z</lastmod>
+    <data>
+        <display>
+        <title>English</title>
+        <pubTime>2018-08-24T22:41:08.000Z</pubTime>
+        
+        <tag>English</tag>
+         
+        <tag>Vocabulary</tag>
+         
+        <tag>Word</tag>
+         
+        <tag>Grammar</tag>
+         
+        <tag>Sentence</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Wisdom/Honesty.html</loc>
     <lastmod>2018-08-23T08:20:24.546Z</lastmod>
     <data>
@@ -356,11 +434,11 @@
         <title>Profession of Career</title>
         <pubTime>2018-08-09T06:06:08.000Z</pubTime>
         
-        <tag>Career</tag>
-         
         <tag>Profession</tag>
          
         <tag>Knowledge</tag>
+         
+        <tag>Career</tag>
          
         <tag>Skill</tag>
          
@@ -434,30 +512,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Scene-Circuit.html</loc>
-    <lastmod>2018-08-18T01:45:28.133Z</lastmod>
-    <data>
-        <display>
-        <title>Scene Circuit</title>
-        <pubTime>2018-08-18T01:37:08.000Z</pubTime>
-        
-        <tag>Scene</tag>
-         
-        <tag>Circuit</tag>
-         
-        <tag>Loop</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -668,13 +722,13 @@
         <title>HWPM</title>
         <pubTime>2018-08-11T08:49:08.000Z</pubTime>
         
-        <tag>Health</tag>
-         
         <tag>Meaning</tag>
          
-        <tag>Profession</tag>
+        <tag>Health</tag>
          
         <tag>Wisdom</tag>
+         
+        <tag>Profession</tag>
          
          
            
@@ -854,13 +908,13 @@
         <title>MAKE</title>
         <pubTime>2018-08-11T04:24:08.000Z</pubTime>
         
-        <tag>Knowledge</tag>
-         
         <tag>Experience</tag>
          
         <tag>Miniamal</tag>
          
         <tag>Actionable</tag>
+         
+        <tag>Knowledge</tag>
          
          
            
@@ -1053,28 +1107,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
-    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
-    <data>
-        <display>
-        <title>MECE</title>
-        <pubTime>2018-08-11T04:20:08.000Z</pubTime>
-        
-        <tag>Exclusive</tag>
-         
-        <tag>Exhaustive</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Profession/3C.html</loc>
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     <data>
@@ -1092,6 +1124,28 @@
            
              
               <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
+    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
+    <data>
+        <display>
+        <title>MECE</title>
+        <pubTime>2018-08-11T04:20:08.000Z</pubTime>
+        
+        <tag>Exclusive</tag>
+         
+        <tag>Exhaustive</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
           
         </display>
     </data>
