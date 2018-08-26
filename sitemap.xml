@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ideeplearn.com/Profession/WOOP.html</loc>
+    <loc>http://ideeplearn.com/Health/Health.html</loc>
     
-    <lastmod>2018-08-25T22:49:05.220Z</lastmod>
+    <lastmod>2018-08-26T13:24:16.858Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Health/Health.html</loc>
+    <loc>http://ideeplearn.com/iDeepLearn.html</loc>
     
-    <lastmod>2018-08-25T22:38:22.449Z</lastmod>
+    <lastmod>2018-08-26T13:20:15.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ideeplearn.com/Profession/Habit.html</loc>
+    
+    <lastmod>2018-08-26T13:08:32.964Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ideeplearn.com/Profession/WOOP.html</loc>
+    
+    <lastmod>2018-08-25T22:49:05.220Z</lastmod>
     
   </url>
   
@@ -177,20 +191,6 @@
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/iDeepLearn.html</loc>
-    
-    <lastmod>2018-08-16T09:59:31.712Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ideeplearn.com/Profession/Habit.html</loc>
-    
-    <lastmod>2018-08-16T09:59:31.700Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ideeplearn.com/Meaning/Happiness.html</loc>
     
     <lastmod>2018-08-16T09:59:31.695Z</lastmod>
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
     
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
     
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     
@@ -345,14 +345,14 @@
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Profession/3C.html</loc>
+    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
     
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
+    <loc>http://ideeplearn.com/Profession/3C.html</loc>
     
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     
