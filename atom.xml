@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ideeplearn.com/"/>
-  <updated>2018-08-25T22:49:05.220Z</updated>
+  <updated>2018-08-26T23:18:23.139Z</updated>
   <id>http://ideeplearn.com/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Observer</title>
+    <link href="http://ideeplearn.com/Wisdom/Observer.html"/>
+    <id>http://ideeplearn.com/Wisdom/Observer.html</id>
+    <published>2018-08-26T23:14:08.000Z</published>
+    <updated>2018-08-26T23:18:23.139Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/obServer.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>The spectators see the chess game better than the players.</p></blockquote><a id="more"></a><p>Look away from different perspectives</p><p><img src="http://7xvdkv.com1.z0.glb.clouddn.com/image/design_pattern/obServerClassicUML.jpg" alt=""><br>publish/subscribe</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/obServer.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The spectators see the chess game better than the players.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Viewpoint" scheme="http://ideeplearn.com/tags/Viewpoint/"/>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
+    
+      <category term="Observer" scheme="http://ideeplearn.com/tags/Observer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Convergence Trend</title>
+    <link href="http://ideeplearn.com/Wisdom/Convergence-Trend.html"/>
+    <id>http://ideeplearn.com/Wisdom/Convergence-Trend.html</id>
+    <published>2018-08-26T22:48:08.000Z</published>
+    <updated>2018-08-26T22:55:46.950Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/ijerph-13-00620-g008.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p> Convergence, Focus, Evolution.</p></blockquote><a id="more"></a><p>Complementing the <a href="http://ideeplearn.com/Wisdom/Compound-Interest.html">compound interest</a> effect</p><p>Profession<br>Debt<br>Information<br>Game<br>Entertainment</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/ijerph-13-00620-g008.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; Convergence, Focus, Evolution.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
+    
+    
+      <category term="Convergence" scheme="http://ideeplearn.com/tags/Convergence/"/>
+    
+      <category term="Trend" scheme="http://ideeplearn.com/tags/Trend/"/>
+    
+  </entry>
   
   <entry>
     <title>WOOP</title>
@@ -407,31 +463,6 @@
   </entry>
   
   <entry>
-    <title>Self</title>
-    <link href="http://ideeplearn.com/Wisdom/Self.html"/>
-    <id>http://ideeplearn.com/Wisdom/Self.html</id>
-    <published>2018-08-14T01:35:08.000Z</published>
-    <updated>2018-08-14T02:03:27.773Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quotes-on-being-yourself-Time-is-limited.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Be yourself, Be real, Be Honesty.</p></blockquote><a id="more"></a><p>Try your best and let it Go.</p><p>Not paying attention to yourself may easily lead to loss of self. Paying too much attention to yourself may lead to shortsightedness.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Picasso-quotes-every-child-is-an-artist.jpg?imageMogr2/thumbnail/!75p" alt=""></p><p><img src="http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quote-on-listening-to-your-heart-Dont-let-the-noise-of-others-opinions-drown-our-your-inner-voice.jpg?imageMogr2/thumbnail/!75p" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quotes-on-being-yourself-Time-is-limited.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Be yourself, Be real, Be Honesty.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
-    
-    
-      <category term="Self" scheme="http://ideeplearn.com/tags/Self/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Eye Shot</title>
     <link href="http://ideeplearn.com/Wisdom/Eye-Shot.html"/>
     <id>http://ideeplearn.com/Wisdom/Eye-Shot.html</id>
@@ -488,48 +519,19 @@
   </entry>
   
   <entry>
-    <title>Confidence</title>
-    <link href="http://ideeplearn.com/Profession/Confidence.html"/>
-    <id>http://ideeplearn.com/Profession/Confidence.html</id>
-    <published>2018-08-14T01:28:08.000Z</published>
-    <updated>2018-08-14T01:30:00.235Z</updated>
+    <title>Self</title>
+    <link href="http://ideeplearn.com/Wisdom/Self.html"/>
+    <id>http://ideeplearn.com/Wisdom/Self.html</id>
+    <published>2018-08-14T01:35:08.000Z</published>
+    <updated>2018-08-14T02:03:27.773Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/confidenceloop20180814.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p> The feeling or belief that one can have faith in or rely on someone or something.</p></blockquote><a id="more"></a><p>Believe in yourself, don’t be too hard on yourself.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/confidenceloop20180814.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt; The feeling or belief that one can have faith in or rely on someone or something.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
-    
-    
-      <category term="Advantage" scheme="http://ideeplearn.com/tags/Advantage/"/>
-    
-      <category term="Disadvantage" scheme="http://ideeplearn.com/tags/Disadvantage/"/>
-    
-      <category term="Confidence" scheme="http://ideeplearn.com/tags/Confidence/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Rhythm</title>
-    <link href="http://ideeplearn.com/Wisdom/Rhythm.html"/>
-    <id>http://ideeplearn.com/Wisdom/Rhythm.html</id>
-    <published>2018-08-13T02:12:08.000Z</published>
-    <updated>2018-08-25T22:13:19.822Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/static1.squarespace.com.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Work hard, go down again, run out three times</p></blockquote><a id="more"></a><p>Too much effort often backfires.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Amplified_sine_wave.svg.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Sine Wave</p></blockquote><p><img src="http://pd4vb8220.bkt.clouddn.com/sleep-stages-and-brain-activity-8-hour-sleep-cycle.jpg?imageMogr2/thumbnail/!75p" alt="sleep-stages-and-brain-activity-8-hour-sleep-cycle.jpg"></p><blockquote><p>Sleep Period</p></blockquote><p><img src="http://pd4vb8220.bkt.clouddn.com/1a4fa-sleep-cycle.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p><a href="https://cupidnpsyche.wordpress.com/2015/01/26/sleep-cycle/" target="_blank" rel="noopener">Sleep Cycle</a></p></blockquote><p><img src="http://pd4vb8220.bkt.clouddn.com/p8242327.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Up</p></blockquote><p><img src="http://pd4vb8220.bkt.clouddn.com/a-286-steep-going-down.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Down</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quotes-on-being-yourself-Time-is-limited.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Be yourself, Be real, Be Honesty.</p></blockquote><a id="more"></a><p>Try your best and let it Go.</p><p>Not paying attention to yourself may easily lead to loss of self. Paying too much attention to yourself may lead to shortsightedness.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Picasso-quotes-every-child-is-an-artist.jpg?imageMogr2/thumbnail/!75p" alt=""></p><p><img src="http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quote-on-listening-to-your-heart-Dont-let-the-noise-of-others-opinions-drown-our-your-inner-voice.jpg?imageMogr2/thumbnail/!75p" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/static1.squarespace.com.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Steve-Jobs-quotes-on-being-yourself-Time-is-limited.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Work hard, go down again, run out three times&lt;/p&gt;
+&lt;p&gt;Be yourself, Be real, Be Honesty.&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -537,28 +539,24 @@
       <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
     
     
-      <category term="Rhythm" scheme="http://ideeplearn.com/tags/Rhythm/"/>
-    
-      <category term="Period" scheme="http://ideeplearn.com/tags/Period/"/>
-    
-      <category term="Cycle" scheme="http://ideeplearn.com/tags/Cycle/"/>
+      <category term="Self" scheme="http://ideeplearn.com/tags/Self/"/>
     
   </entry>
   
   <entry>
-    <title>Science</title>
-    <link href="http://ideeplearn.com/Profession/Science.html"/>
-    <id>http://ideeplearn.com/Profession/Science.html</id>
-    <published>2018-08-13T00:16:08.000Z</published>
-    <updated>2018-08-18T01:37:21.503Z</updated>
+    <title>Disassembly</title>
+    <link href="http://ideeplearn.com/Profession/Disassembly.html"/>
+    <id>http://ideeplearn.com/Profession/Disassembly.html</id>
+    <published>2018-08-14T01:28:08.000Z</published>
+    <updated>2018-08-26T22:43:01.335Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/science20180813.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>   The essence of Science is falsification</p></blockquote><a id="more"></a><p><a href="http://zhibimo.com/read/xiaolai/reborn-every-7-years/B05.html" target="_blank" rel="noopener"></a> is not necessarily religion. The enemy of science must be those who are unwilling to change their established outlook on life and values.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Scientific-methods.jpg?imageMogr2/thumbnail/!75p" alt=""></p><p><a href="https://en.wikipedia.org/wiki/Scientific_method" target="_blank" rel="noopener">Scientific method</a> is an empirical method of knowledge acquisition, which has characterized the development of natural science since at least the 17th century, involving careful observation, which includes rigorous skepticism about what is observed, given that cognitive assumptions about how the world works influence how one interprets a percept; formulating hypotheses, via induction, based on such observations; experimental testing and measurement of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are principles of the scientific method, as opposed to a definitive series of steps applicable to all scientific enterprises.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/Scientific_law_versus_Scientific_theories.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Scientific theories explain why something happens, whereas Scientific Laws record what happens.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Ob6bKZiLiVAWJMAg.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p> Break up the whole into pieces and destroy them one by one</p></blockquote><a id="more"></a><p><img src="http://pd4vb8220.bkt.clouddn.com/everythingbeefflat-careful-division.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Dismember an ox as skillfully as a butcher</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/science20180813.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Ob6bKZiLiVAWJMAg.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;   The essence of Science is falsification&lt;/p&gt;
+&lt;p&gt; Break up the whole into pieces and destroy them one by one&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -566,7 +564,9 @@
       <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
     
     
-      <category term="Science" scheme="http://ideeplearn.com/tags/Science/"/>
+      <category term="Disassembly" scheme="http://ideeplearn.com/tags/Disassembly/"/>
+    
+      <category term="Decompose" scheme="http://ideeplearn.com/tags/Decompose/"/>
     
   </entry>
   
