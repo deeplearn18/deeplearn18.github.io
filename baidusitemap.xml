@@ -3,6 +3,53 @@
 
 
     
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/Domino.html</loc>
+    <lastmod>2018-08-28T08:18:30.599Z</lastmod>
+    <data>
+        <display>
+        <title>Domino</title>
+        <pubTime>2018-08-22T23:04:08.000Z</pubTime>
+        
+        <tag>Domino</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/GPAR.html</loc>
+    <lastmod>2018-08-28T08:16:14.962Z</lastmod>
+    <data>
+        <display>
+        <title>GPAR</title>
+        <pubTime>2018-08-28T08:08:08.000Z</pubTime>
+        
+        <tag>Goal</tag>
+         
+        <tag>Plan</tag>
+         
+        <tag>Action</tag>
+         
+        <tag>Review</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
     <lastmod>2018-08-28T03:03:45.298Z</lastmod>
@@ -263,13 +310,13 @@
         <title>WOOP</title>
         <pubTime>2018-08-25T08:16:08.000Z</pubTime>
         
+        <tag>Plan</tag>
+         
         <tag>Wish</tag>
          
         <tag>Outcome</tag>
          
         <tag>Obstacle</tag>
-         
-        <tag>Plan</tag>
          
          
            
@@ -417,26 +464,6 @@
            
              
               <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Wisdom/Domino.html</loc>
-    <lastmod>2018-08-23T07:39:22.711Z</lastmod>
-    <data>
-        <display>
-        <title>Domino</title>
-        <pubTime>2018-08-22T23:04:08.000Z</pubTime>
-        
-        <tag>Domino</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
           
         </display>
     </data>
@@ -617,7 +644,6 @@
     </url>
 
     
-    
   <url>
     <loc>http://ideeplearn.com/Profession/Profession.html</loc>
     <lastmod>2018-08-18T01:51:52.076Z</lastmod>
@@ -738,9 +764,9 @@
         <title>Practice</title>
         <pubTime>2018-08-11T06:19:08.000Z</pubTime>
         
-        <tag>Practice</tag>
-         
         <tag>Action</tag>
+         
+        <tag>Practice</tag>
          
          
            
@@ -793,26 +819,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
-    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
-    <data>
-        <display>
-        <title>Business</title>
-        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
-        
-        <tag>Business</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     <data>
@@ -828,6 +834,26 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
+    <data>
+        <display>
+        <title>Business</title>
+        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
+        
+        <tag>Business</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -1302,9 +1328,9 @@
         <title>SMART</title>
         <pubTime>2018-08-11T08:33:08.000Z</pubTime>
         
-        <tag>SMART</tag>
-         
         <tag>Goal</tag>
+         
+        <tag>SMART</tag>
          
         <tag>Strategy</tag>
          
