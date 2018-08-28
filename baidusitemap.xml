@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://ideeplearn.com/Profession/Disassembly.html</loc>
-    <lastmod>2018-08-27T00:14:22.536Z</lastmod>
+    <lastmod>2018-08-28T01:25:49.890Z</lastmod>
     <data>
         <display>
         <title>Disassembly</title>
@@ -721,6 +721,26 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
+    <data>
+        <display>
+        <title>Business</title>
+        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
+        
+        <tag>Business</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     <data>
@@ -736,26 +756,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
-    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
-    <data>
-        <display>
-        <title>Business</title>
-        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
-        
-        <tag>Business</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -796,9 +796,9 @@
         
         <tag>Health</tag>
          
-        <tag>Meaning</tag>
-         
         <tag>Profession</tag>
+         
+        <tag>Meaning</tag>
          
         <tag>Wisdom</tag>
          
