@@ -4,8 +4,62 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
+    <lastmod>2018-08-28T03:03:45.298Z</lastmod>
+    <data>
+        <display>
+        <title>HWPM</title>
+        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
+        
+        <tag>Meaning</tag>
+         
+        <tag>Health</tag>
+         
+        <tag>Profession</tag>
+         
+        <tag>Wisdom</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/English.html</loc>
+    <lastmod>2018-08-28T02:46:00.076Z</lastmod>
+    <data>
+        <display>
+        <title>English</title>
+        <pubTime>2018-08-24T22:41:08.000Z</pubTime>
+        
+        <tag>English</tag>
+         
+        <tag>Vocabulary</tag>
+         
+        <tag>Word</tag>
+         
+        <tag>Grammar</tag>
+         
+        <tag>Sentence</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Profession/Disassembly.html</loc>
-    <lastmod>2018-08-28T01:25:49.890Z</lastmod>
+    <lastmod>2018-08-28T02:35:18.437Z</lastmod>
     <data>
         <display>
         <title>Disassembly</title>
@@ -19,6 +73,80 @@
            
              
               <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/ORID.html</loc>
+    <lastmod>2018-08-28T02:22:31.526Z</lastmod>
+    <data>
+        <display>
+        <title>ORID</title>
+        <pubTime>2018-08-28T02:17:08.000Z</pubTime>
+        
+        <tag>Decision</tag>
+         
+        <tag>Object</tag>
+         
+        <tag>Reflection</tag>
+         
+        <tag>Interpretive</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Framework.html</loc>
+    <lastmod>2018-08-28T02:17:22.841Z</lastmod>
+    <data>
+        <display>
+        <title>Framework</title>
+        <pubTime>2018-08-28T01:43:08.000Z</pubTime>
+        
+        <tag>Framework</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/iDeepLearn.html</loc>
+    <lastmod>2018-08-28T01:40:48.889Z</lastmod>
+    <data>
+        <display>
+        <title>Welcome!</title>
+        <pubTime>2018-08-08T00:08:08.000Z</pubTime>
+        
+        <tag>Deep</tag>
+         
+        <tag>Learning</tag>
+         
+        <tag>Thinking</tag>
+         
+        <tag>Creativity</tag>
+         
+        <tag>Innovaition</tag>
+         
+         
+           
+             
+              <breadCrumb title="Meaning" url="http://ideeplearn.com/categories/Meaning/"/>
           
         </display>
     </data>
@@ -43,34 +171,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/iDeepLearn.html</loc>
-    <lastmod>2018-08-26T22:55:52.604Z</lastmod>
-    <data>
-        <display>
-        <title>Welcome!</title>
-        <pubTime>2018-08-08T00:08:08.000Z</pubTime>
-        
-        <tag>Deep</tag>
-         
-        <tag>Learning</tag>
-         
-        <tag>Thinking</tag>
-         
-        <tag>Creativity</tag>
-         
-        <tag>Innovaition</tag>
-         
-         
-           
-             
-              <breadCrumb title="Meaning" url="http://ideeplearn.com/categories/Meaning/"/>
           
         </display>
     </data>
@@ -230,34 +330,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/English.html</loc>
-    <lastmod>2018-08-24T22:43:28.076Z</lastmod>
-    <data>
-        <display>
-        <title>English</title>
-        <pubTime>2018-08-24T22:41:08.000Z</pubTime>
-        
-        <tag>English</tag>
-         
-        <tag>Vocabulary</tag>
-         
-        <tag>Word</tag>
-         
-        <tag>Grammar</tag>
-         
-        <tag>Sentence</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Honesty.html</loc>
     <lastmod>2018-08-23T08:20:24.546Z</lastmod>
     <data>
@@ -311,11 +383,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
-        <tag>Competition</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Competition</tag>
          
          
            
@@ -787,32 +859,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Wisdom/HWPM.html</loc>
-    <lastmod>2018-08-16T09:18:48.272Z</lastmod>
-    <data>
-        <display>
-        <title>HWPM</title>
-        <pubTime>2018-08-11T08:49:08.000Z</pubTime>
-        
-        <tag>Health</tag>
-         
-        <tag>Profession</tag>
-         
-        <tag>Meaning</tag>
-         
-        <tag>Wisdom</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Self.html</loc>
     <lastmod>2018-08-14T02:03:27.773Z</lastmod>
     <data>
@@ -840,11 +886,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
+        <tag>Confidence</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Confidence</tag>
          
          
            
