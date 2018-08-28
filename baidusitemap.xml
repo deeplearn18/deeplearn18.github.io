@@ -58,9 +58,9 @@
         <title>HWPM</title>
         <pubTime>2018-08-11T08:49:08.000Z</pubTime>
         
-        <tag>Meaning</tag>
-         
         <tag>Health</tag>
+         
+        <tag>Meaning</tag>
          
         <tag>Profession</tag>
          
@@ -430,11 +430,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
+        <tag>Competition</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Competition</tag>
          
          
            
@@ -819,6 +819,26 @@
 
     
   <url>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
+    <data>
+        <display>
+        <title>Business</title>
+        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
+        
+        <tag>Business</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     <data>
@@ -834,26 +854,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
-    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
-    <data>
-        <display>
-        <title>Business</title>
-        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
-        
-        <tag>Business</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -912,11 +912,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
-        <tag>Confidence</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Confidence</tag>
          
          
            
