@@ -3,6 +3,74 @@
 
 
     
+  <url>
+    <loc>http://ideeplearn.com/Profession/Review.html</loc>
+    <lastmod>2018-08-30T10:44:24.681Z</lastmod>
+    <data>
+        <display>
+        <title>Review</title>
+        <pubTime>2018-08-30T10:38:08.000Z</pubTime>
+        
+        <tag>Review</tag>
+         
+        <tag>Opportunity</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Preview.html</loc>
+    <lastmod>2018-08-30T10:44:24.680Z</lastmod>
+    <data>
+        <display>
+        <title>Preview</title>
+        <pubTime>2018-08-30T10:36:08.000Z</pubTime>
+        
+        <tag>Preparation</tag>
+         
+        <tag>Preview</tag>
+         
+        <tag>Opportunity</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/Convergence-Trend.html</loc>
+    <lastmod>2018-08-30T09:43:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>Convergence Trend</title>
+        <pubTime>2018-08-26T22:48:08.000Z</pubTime>
+        
+        <tag>Convergence</tag>
+         
+        <tag>Trend</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://ideeplearn.com/Wisdom/Domino.html</loc>
@@ -60,11 +128,11 @@
         
         <tag>Health</tag>
          
-        <tag>Meaning</tag>
-         
         <tag>Profession</tag>
          
         <tag>Wisdom</tag>
+         
+        <tag>Meaning</tag>
          
          
            
@@ -210,31 +278,9 @@
         
         <tag>Viewpoint</tag>
          
-        <tag>Wisdom</tag>
-         
         <tag>Observer</tag>
          
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Wisdom/Convergence-Trend.html</loc>
-    <lastmod>2018-08-26T22:55:46.950Z</lastmod>
-    <data>
-        <display>
-        <title>Convergence Trend</title>
-        <pubTime>2018-08-26T22:48:08.000Z</pubTime>
-        
-        <tag>Convergence</tag>
-         
-        <tag>Trend</tag>
+        <tag>Wisdom</tag>
          
          
            
@@ -430,11 +476,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
-        <tag>Competition</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Competition</tag>
          
          
            
@@ -502,9 +548,9 @@
         <title>Failure</title>
         <pubTime>2018-08-11T07:39:08.000Z</pubTime>
         
-        <tag>Failure</tag>
-         
         <tag>Success</tag>
+         
+        <tag>Failure</tag>
          
          
            
@@ -912,11 +958,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
+        <tag>Confidence</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Confidence</tag>
          
          
            
@@ -1006,13 +1052,13 @@
         <title>Wisdom of Life</title>
         <pubTime>2018-08-09T04:30:08.000Z</pubTime>
         
-        <tag>Life</tag>
-         
         <tag>Wisdom</tag>
          
         <tag>Aphorism</tag>
          
         <tag>Maxim</tag>
+         
+        <tag>Life</tag>
          
          
            
@@ -1236,9 +1282,9 @@
         <title>Success</title>
         <pubTime>2018-08-11T07:46:08.000Z</pubTime>
         
-        <tag>Failure</tag>
-         
         <tag>Success</tag>
+         
+        <tag>Failure</tag>
          
          
            
@@ -1304,11 +1350,11 @@
         <title>Meaning of Life</title>
         <pubTime>2018-08-09T06:30:08.000Z</pubTime>
         
+        <tag>Life</tag>
+         
         <tag>Meaning</tag>
          
         <tag>Value</tag>
-         
-        <tag>Life</tag>
          
          
            
