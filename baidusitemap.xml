@@ -3,9 +3,10 @@
 
 
     
+    
   <url>
     <loc>http://ideeplearn.com/Profession/Review.html</loc>
-    <lastmod>2018-08-30T10:44:24.681Z</lastmod>
+    <lastmod>2018-08-30T12:49:25.697Z</lastmod>
     <data>
         <display>
         <title>Review</title>
@@ -19,6 +20,74 @@
            
              
               <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/QA.html</loc>
+    <lastmod>2018-08-30T12:49:21.611Z</lastmod>
+    <data>
+        <display>
+        <title>QA</title>
+        <pubTime>2018-08-30T12:45:08.000Z</pubTime>
+        
+        <tag>Question</tag>
+         
+        <tag>Answer</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Try.html</loc>
+    <lastmod>2018-08-30T12:33:25.109Z</lastmod>
+    <data>
+        <display>
+        <title>Try</title>
+        <pubTime>2018-08-30T12:29:08.000Z</pubTime>
+        
+        <tag>Try</tag>
+         
+        <tag>Trial</tag>
+         
+        <tag>Attempt</tag>
+         
+        <tag>Experiment</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Health/Flexibility.html</loc>
+    <lastmod>2018-08-30T11:54:10.432Z</lastmod>
+    <data>
+        <display>
+        <title>Flexibility</title>
+        <pubTime>2018-08-12T23:32:08.000Z</pubTime>
+        
+        <tag>Flexibility</tag>
+         
+         
+           
+             
+              <breadCrumb title="Health" url="http://ideeplearn.com/categories/Health/"/>
           
         </display>
     </data>
@@ -70,7 +139,6 @@
     </data>
     </url>
 
-    
     
   <url>
     <loc>http://ideeplearn.com/Wisdom/Domino.html</loc>
@@ -128,11 +196,11 @@
         
         <tag>Health</tag>
          
-        <tag>Profession</tag>
+        <tag>Meaning</tag>
          
         <tag>Wisdom</tag>
          
-        <tag>Meaning</tag>
+        <tag>Profession</tag>
          
          
            
@@ -202,13 +270,13 @@
         <title>ORID</title>
         <pubTime>2018-08-28T02:17:08.000Z</pubTime>
         
-        <tag>Decision</tag>
-         
         <tag>Object</tag>
          
         <tag>Reflection</tag>
          
         <tag>Interpretive</tag>
+         
+        <tag>Decision</tag>
          
          
            
@@ -278,9 +346,9 @@
         
         <tag>Viewpoint</tag>
          
-        <tag>Observer</tag>
-         
         <tag>Wisdom</tag>
+         
+        <tag>Observer</tag>
          
          
            
@@ -476,11 +544,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
+        <tag>Competition</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Competition</tag>
          
          
            
@@ -548,9 +616,9 @@
         <title>Failure</title>
         <pubTime>2018-08-11T07:39:08.000Z</pubTime>
         
-        <tag>Success</tag>
-         
         <tag>Failure</tag>
+         
+        <tag>Success</tag>
          
          
            
@@ -698,11 +766,11 @@
         <title>Profession of Career</title>
         <pubTime>2018-08-09T06:06:08.000Z</pubTime>
         
-        <tag>Career</tag>
-         
         <tag>Profession</tag>
          
         <tag>Knowledge</tag>
+         
+        <tag>Career</tag>
          
         <tag>Skill</tag>
          
@@ -744,9 +812,9 @@
         <title>Choice</title>
         <pubTime>2018-08-13T00:05:08.000Z</pubTime>
         
-        <tag>Choice</tag>
-         
         <tag>Decision</tag>
+         
+        <tag>Choice</tag>
          
          
            
@@ -865,26 +933,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Profession/Business.html</loc>
-    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
-    <data>
-        <display>
-        <title>Business</title>
-        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
-        
-        <tag>Business</tag>
-         
-         
-           
-             
-              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Wisdom/Eye-Shot.html</loc>
     <lastmod>2018-08-16T09:59:31.658Z</lastmod>
     <data>
@@ -900,6 +948,26 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Business.html</loc>
+    <lastmod>2018-08-16T09:59:31.658Z</lastmod>
+    <data>
+        <display>
+        <title>Business</title>
+        <pubTime>2018-08-12T10:32:08.000Z</pubTime>
+        
+        <tag>Business</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
           
         </display>
     </data>
@@ -958,11 +1026,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
-        <tag>Confidence</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Confidence</tag>
          
          
            
@@ -1052,13 +1120,13 @@
         <title>Wisdom of Life</title>
         <pubTime>2018-08-09T04:30:08.000Z</pubTime>
         
+        <tag>Life</tag>
+         
         <tag>Wisdom</tag>
          
         <tag>Aphorism</tag>
          
         <tag>Maxim</tag>
-         
-        <tag>Life</tag>
          
          
            
@@ -1098,13 +1166,13 @@
         <title>MAKE</title>
         <pubTime>2018-08-11T04:24:08.000Z</pubTime>
         
-        <tag>Knowledge</tag>
-         
         <tag>Experience</tag>
          
         <tag>Miniamal</tag>
          
         <tag>Actionable</tag>
+         
+        <tag>Knowledge</tag>
          
          
            
@@ -1132,26 +1200,6 @@
            
              
               <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ideeplearn.com/Health/Flexibility.html</loc>
-    <lastmod>2018-08-12T23:50:30.968Z</lastmod>
-    <data>
-        <display>
-        <title>Flexibility</title>
-        <pubTime>2018-08-12T23:32:08.000Z</pubTime>
-        
-        <tag>Flexibility</tag>
-         
-         
-           
-             
-              <breadCrumb title="Health" url="http://ideeplearn.com/categories/Health/"/>
           
         </display>
     </data>
@@ -1282,9 +1330,9 @@
         <title>Success</title>
         <pubTime>2018-08-11T07:46:08.000Z</pubTime>
         
-        <tag>Success</tag>
-         
         <tag>Failure</tag>
+         
+        <tag>Success</tag>
          
          
            
@@ -1350,11 +1398,11 @@
         <title>Meaning of Life</title>
         <pubTime>2018-08-09T06:30:08.000Z</pubTime>
         
-        <tag>Life</tag>
-         
         <tag>Meaning</tag>
          
         <tag>Value</tag>
+         
+        <tag>Life</tag>
          
          
            

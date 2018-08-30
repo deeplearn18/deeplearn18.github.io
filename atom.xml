@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ideeplearn.com/"/>
-  <updated>2018-08-30T10:44:24.681Z</updated>
+  <updated>2018-08-30T12:49:21.611Z</updated>
   <id>http://ideeplearn.com/</id>
   
   <author>
@@ -17,11 +17,69 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>QA</title>
+    <link href="http://ideeplearn.com/Profession/QA.html"/>
+    <id>http://ideeplearn.com/Profession/QA.html</id>
+    <published>2018-08-30T12:45:08.000Z</published>
+    <updated>2018-08-30T12:49:21.611Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/questions-and-answers.jpeg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Find the root causes and solutions by asking questions.</p></blockquote><a id="more"></a><p><img src="http://pd4vb8220.bkt.clouddn.com/5Whys_multiple_lanes_v3.webp?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>5Whys</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/questions-and-answers.jpeg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Find the root causes and solutions by asking questions.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
+    
+    
+      <category term="Question" scheme="http://ideeplearn.com/tags/Question/"/>
+    
+      <category term="Answer" scheme="http://ideeplearn.com/tags/Answer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Try</title>
+    <link href="http://ideeplearn.com/Profession/Try.html"/>
+    <id>http://ideeplearn.com/Profession/Try.html</id>
+    <published>2018-08-30T12:29:08.000Z</published>
+    <updated>2018-08-30T12:33:25.109Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/slide_35.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p> Try it. Nothing is impossible. It is often presumptuous ideas that stand in your way.</p></blockquote><a id="more"></a><p><img src="http://pd4vb8220.bkt.clouddn.com/1596013-Thomas-Heywood-Quote-Nothing-is-impossible-to-the-willing-heart.jpg?imageMogr2/thumbnail/!75p" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/slide_35.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; Try it. Nothing is impossible. It is often presumptuous ideas that stand in your way.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
+    
+    
+      <category term="Try" scheme="http://ideeplearn.com/tags/Try/"/>
+    
+      <category term="Trial" scheme="http://ideeplearn.com/tags/Trial/"/>
+    
+      <category term="Attempt" scheme="http://ideeplearn.com/tags/Attempt/"/>
+    
+      <category term="Experiment" scheme="http://ideeplearn.com/tags/Experiment/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Review</title>
     <link href="http://ideeplearn.com/Profession/Review.html"/>
     <id>http://ideeplearn.com/Profession/Review.html</id>
     <published>2018-08-30T10:38:08.000Z</published>
-    <updated>2018-08-30T10:44:24.681Z</updated>
+    <updated>2018-08-30T12:49:25.697Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/timeforeviews-2000x1200.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p> Learn from the past. Consider the past you shall know the future</p></blockquote><a id="more"></a><p>Preview, notes and review are a complete set of learning methodologies.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/1967655-Thomas-S-Monson-Quote-Learn-from-the-past-prepare-for-the-future.jpg?imageMogr2/thumbnail/!75p" alt=""></p>]]></content>
     
@@ -124,13 +182,13 @@
       <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
     
     
-      <category term="Decision" scheme="http://ideeplearn.com/tags/Decision/"/>
-    
       <category term="Object" scheme="http://ideeplearn.com/tags/Object/"/>
     
       <category term="Reflection" scheme="http://ideeplearn.com/tags/Reflection/"/>
     
       <category term="Interpretive" scheme="http://ideeplearn.com/tags/Interpretive/"/>
+    
+      <category term="Decision" scheme="http://ideeplearn.com/tags/Decision/"/>
     
   </entry>
   
@@ -209,9 +267,9 @@
     
       <category term="Viewpoint" scheme="http://ideeplearn.com/tags/Viewpoint/"/>
     
-      <category term="Observer" scheme="http://ideeplearn.com/tags/Observer/"/>
-    
       <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
+    
+      <category term="Observer" scheme="http://ideeplearn.com/tags/Observer/"/>
     
   </entry>
   
@@ -517,62 +575,6 @@
       <category term="One" scheme="http://ideeplearn.com/tags/One/"/>
     
       <category term="Priority" scheme="http://ideeplearn.com/tags/Priority/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Frog</title>
-    <link href="http://ideeplearn.com/Wisdom/Frog.html"/>
-    <id>http://ideeplearn.com/Wisdom/Frog.html</id>
-    <published>2018-08-18T23:33:08.000Z</published>
-    <updated>2018-08-22T22:59:39.099Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/little_frog_on_the_well_by_malkshake.png?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Everyone is actually a frog in the bottom of a well. The difference is just the size of the well head.</p></blockquote><a id="more"></a><p><img src="http://pd4vb8220.bkt.clouddn.com/006kjRjSgw1f62t44o7x1j30rs0fmwi8.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>Warm boiled frog</p></blockquote><p>People cannot or will not pay attention to the threats that are gradually emerging or react to them.</p><p>Time is the biggest choice cost.</p><p><img src="http://pd4vb8220.bkt.clouddn.com/017a1555410fe9000001e71b11c641.jpg@1280w_1l_2o_100sh.jpg?imageMogr2/thumbnail/!75p" alt=""></p><p>He’s guilty, I’m guilty.</p><p>“Frog” is a review of MoYan’s life for decades. Under many high-sounding pretexts, there are many private thoughts and selfishness of many people. [Frog] has an important meaning, which is to face the self. Is to face their own heart to dig, is a spirit of the self-criticism.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/little_frog_on_the_well_by_malkshake.png?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Everyone is actually a frog in the bottom of a well. The difference is just the size of the well head.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
-    
-    
-      <category term="Frog" scheme="http://ideeplearn.com/tags/Frog/"/>
-    
-      <category term="Tadpole" scheme="http://ideeplearn.com/tags/Tadpole/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Scene Circuit</title>
-    <link href="http://ideeplearn.com/Profession/Scene-Circuit.html"/>
-    <id>http://ideeplearn.com/Profession/Scene-Circuit.html</id>
-    <published>2018-08-18T01:37:08.000Z</published>
-    <updated>2018-08-25T08:13:53.033Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://pd4vb8220.bkt.clouddn.com/Habit_Loop.jpg?imageMogr2/thumbnail/!75p" alt=""></p><blockquote><p>   Each particular scenario has a recommended coping strategy, which corresponds to a specific neural circuit.</p></blockquote><a id="more"></a><p><img src="http://pd4vb8220.bkt.clouddn.com/INDIRECT LOOPS OF BASAL GANGLIA.jpg?imageMogr2/thumbnail/!75p" alt=""></p><p>Once you have a <a href="https://deepcreator.com/Concept/Psychology.html" target="_blank" rel="noopener">“if…just”</a> statement in your brain, when the “if” condition occurs, the brain will automatically reflect what you should do.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://pd4vb8220.bkt.clouddn.com/Habit_Loop.jpg?imageMogr2/thumbnail/!75p&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;   Each particular scenario has a recommended coping strategy, which corresponds to a specific neural circuit.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
-    
-    
-      <category term="Scene" scheme="http://ideeplearn.com/tags/Scene/"/>
-    
-      <category term="Circuit" scheme="http://ideeplearn.com/tags/Circuit/"/>
-    
-      <category term="Loop" scheme="http://ideeplearn.com/tags/Loop/"/>
     
   </entry>
   
