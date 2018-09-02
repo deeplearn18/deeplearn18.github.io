@@ -265,13 +265,13 @@
       <category term="Profession" scheme="http://ideeplearn.com/categories/Profession/"/>
     
     
+      <category term="Decision" scheme="http://ideeplearn.com/tags/Decision/"/>
+    
       <category term="Object" scheme="http://ideeplearn.com/tags/Object/"/>
     
       <category term="Reflection" scheme="http://ideeplearn.com/tags/Reflection/"/>
     
       <category term="Interpretive" scheme="http://ideeplearn.com/tags/Interpretive/"/>
-    
-      <category term="Decision" scheme="http://ideeplearn.com/tags/Decision/"/>
     
   </entry>
   
@@ -323,11 +323,11 @@
       <category term="Wisdom" scheme="http://ideeplearn.com/categories/Wisdom/"/>
     
     
-      <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
-    
       <category term="Observer" scheme="http://ideeplearn.com/tags/Observer/"/>
     
       <category term="Viewpoint" scheme="http://ideeplearn.com/tags/Viewpoint/"/>
+    
+      <category term="Wisdom" scheme="http://ideeplearn.com/tags/Wisdom/"/>
     
   </entry>
   
