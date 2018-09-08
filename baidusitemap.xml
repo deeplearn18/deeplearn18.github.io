@@ -3,6 +3,50 @@
 
 
     
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/Black-Hole.html</loc>
+    <lastmod>2018-09-08T02:38:45.374Z</lastmod>
+    <data>
+        <display>
+        <title>Black Hole</title>
+        <pubTime>2018-09-08T01:57:08.000Z</pubTime>
+        
+        <tag>Hole</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Profession/Habit.html</loc>
+    <lastmod>2018-09-08T02:21:35.839Z</lastmod>
+    <data>
+        <display>
+        <title>Habit</title>
+        <pubTime>2018-09-08T02:11:08.000Z</pubTime>
+        
+        <tag>Habit</tag>
+         
+        <tag>Circle</tag>
+         
+        <tag>Practice</tag>
+         
+         
+           
+             
+              <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://ideeplearn.com/Wisdom/Wisdom.html</loc>
@@ -190,11 +234,11 @@
         
         <tag>Review</tag>
          
+        <tag>Practice</tag>
+         
         <tag>Preview</tag>
          
         <tag>Note</tag>
-         
-        <tag>Practice</tag>
          
          
            
@@ -214,9 +258,9 @@
         <title>SPH</title>
         <pubTime>2018-08-18T01:20:08.000Z</pubTime>
         
-        <tag>Science</tag>
-         
         <tag>Profession</tag>
+         
+        <tag>Science</tag>
          
         <tag>Humanity</tag>
          
@@ -544,11 +588,11 @@
         <title>Observer</title>
         <pubTime>2018-08-26T23:14:08.000Z</pubTime>
         
+        <tag>Wisdom</tag>
+         
         <tag>Observer</tag>
          
         <tag>Viewpoint</tag>
-         
-        <tag>Wisdom</tag>
          
          
            
@@ -618,11 +662,11 @@
         <title>Competition</title>
         <pubTime>2018-08-11T08:22:08.000Z</pubTime>
         
+        <tag>Competition</tag>
+         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
-         
-        <tag>Competition</tag>
          
          
            
@@ -858,11 +902,11 @@
         <title>Confidence</title>
         <pubTime>2018-08-14T01:28:08.000Z</pubTime>
         
-        <tag>Confidence</tag>
-         
         <tag>Advantage</tag>
          
         <tag>Disadvantage</tag>
+         
+        <tag>Confidence</tag>
          
          
            
@@ -1037,28 +1081,6 @@
 
     
   <url>
-    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
-    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
-    <data>
-        <display>
-        <title>MECE</title>
-        <pubTime>2018-08-11T04:20:08.000Z</pubTime>
-        
-        <tag>Exclusive</tag>
-         
-        <tag>Exhaustive</tag>
-         
-         
-           
-             
-              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ideeplearn.com/Profession/3C.html</loc>
     <lastmod>2018-08-12T02:34:51.031Z</lastmod>
     <data>
@@ -1076,6 +1098,28 @@
            
              
               <breadCrumb title="Profession" url="http://ideeplearn.com/categories/Profession/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ideeplearn.com/Wisdom/MECE.html</loc>
+    <lastmod>2018-08-12T02:34:51.031Z</lastmod>
+    <data>
+        <display>
+        <title>MECE</title>
+        <pubTime>2018-08-11T04:20:08.000Z</pubTime>
+        
+        <tag>Exclusive</tag>
+         
+        <tag>Exhaustive</tag>
+         
+         
+           
+             
+              <breadCrumb title="Wisdom" url="http://ideeplearn.com/categories/Wisdom/"/>
           
         </display>
     </data>
